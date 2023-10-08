@@ -1,2 +1,3 @@
-# GymTracking
-A Little app to track gym activity using flutter
+# gym_tracker
+
+A new Flutter project.
